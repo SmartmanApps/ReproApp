@@ -52,4 +52,10 @@
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="7.0.0" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <Reference Include="DependencyLibrary">
+	    <HintPath>..\..\DependencyLibrary\DependencyLibrary\bin\Debug\net7.0\DependencyLibrary.dll</HintPath>
+	  </Reference>
+	</ItemGroup>
+
 </Project>
