@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31611.283
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReproApp", "ReproApp\ReproApp.csproj", "{05F838D7-8D19-4543-9AC1-A39561F21EF4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AReproApp", "ReproApp\AReproApp.csproj", "{05F838D7-8D19-4543-9AC1-A39561F21EF4}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyLibrary", "..\DependencyLibrary\DependencyLibrary\DependencyLibrary.csproj", "{DD6E925F-9408-467A-BB58-710E332E0E35}"
 EndProject
